@@ -1,0 +1,19 @@
+column_map_raw:
+  Invoice: invoiceId
+  InvoiceDate: invoiceDate
+  StockCode: skuCode
+  Description: skuDescription
+  Quantity: skuQty
+  Price: skuPrice
+  Customer ID: customerId
+  Country: country
+
+type_map_raw:
+  Invoice: string
+  InvoiceDate: date
+  StockCode: string
+  Description: string
+  Quantity: double
+  Price: double
+  Customer ID: string
+  Country: string
